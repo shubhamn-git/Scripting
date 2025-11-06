@@ -4,3 +4,4 @@ echo "This is error script"   # sample script
 echo "This is my system path $PATH"
 
 echo "Print (Hello WOrld)"
+echo "GitHub"
