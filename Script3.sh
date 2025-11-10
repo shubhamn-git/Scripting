@@ -5,3 +5,5 @@ echo "This is my system path $PATH"
 
 echo "Print (Hello WOrld)"
 echo "GitHub"
+echo "echo"
+echo "Hello world, I am Marshmello"
