@@ -7,3 +7,4 @@ read b
 echo "Hello value of a is $a and value of b is $b"
 echo "Hllo world"
 echo "Hello world, I am Marshmello"
+echo "Hello world, I am Marshmello"
